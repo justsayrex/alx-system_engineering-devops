@@ -1,0 +1,2 @@
+#!/bin/bash
+~/shell$ ls && ./7-file && ls -l && cat -e \\* Best School 7-file 7-file~ Makefile
